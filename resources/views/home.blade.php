@@ -26,7 +26,7 @@
 		<img src="cluby/ManchasHome/mancha (3).svg" id="mancha3">
 		<img src="cluby/ManchasHome/mancha (4).svg" id="mancha4">
 		<div>
-			<p id ="headcluby">¡Hola! Te damos la bienvenida a <strong>CLUBY</strong>, el Marketplace ideal para todos aquellos proveedores profesionales
+			<p id ="headcluby">HELLO THERE <strong>CLUBY</strong>, el Marketplace ideal para todos aquellos proveedores profesionales
 				que desean ofrecer las mejores opciones academicas para la comunidad infatil local y para todos los padres de
 				familia que buscan brindar a sus hijos clases extraescolares que complementen el desarrollo fisico y cognitivo
 			de sus peques.</p>
